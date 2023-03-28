@@ -5,7 +5,7 @@
 //  Created by Aviral Garg on 2023-03-27.
 //
 
-import SwiftUI
+import Foundation
 
 struct DailyScrum: Identifiable {
     let id: UUID
