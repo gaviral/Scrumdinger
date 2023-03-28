@@ -8,6 +8,14 @@
 
 ---
 
+### Detail View
+
+<img src="./Documentation/Assets/DetailView.png" alt="Detail View screenshot" width="300"/>
+
+- This is currently a placeholder view. It will be replaced with a view that shows the details of a scrum.
+
+---
+
 ### Meeting View
 
 <img src="./Documentation/Assets/MeetingView.png" alt="Meeting View screenshot" width="300"/>
@@ -17,7 +25,5 @@
 ### Card View
 
 <img src="./Documentation/Assets/CardView.png" alt="Card View screenshot" width="300"/>
-
-- The `lengthInMinutes` view on the bottom right now has trailing icon styling.
 
 ---
