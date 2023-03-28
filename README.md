@@ -2,4 +2,16 @@
 
 ## Screenshots
 
-![Scrumdinger screenshot](/Documentation/Assets/AppScreenshot.png)
+### Meeting View
+
+<img src="./Documentation/Assets/MeetingView.png" alt="Meeting View screenshot" width="300"/>
+
+---
+
+### Card View
+
+<img src="./Documentation/Assets/CardView.png" alt="Card View screenshot" width="300"/>
+
+- The `lengthInMinutes` view on the bottom right now has trailing icon styling.
+
+---
