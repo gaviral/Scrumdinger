@@ -15,3 +15,9 @@
 - The `lengthInMinutes` view on the bottom right now has trailing icon styling.
 
 ---
+
+### Scrums View
+
+<img src="./Documentation/Assets/ScrumsView.png" alt="Scrums View screenshot" width="300"/>
+
+---
