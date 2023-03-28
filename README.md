@@ -12,8 +12,6 @@
 
 <img src="./Documentation/Assets/DetailView.png" alt="Detail View screenshot" width="300"/>
 
-- This is currently a placeholder view. It will be replaced with a view that shows the details of a scrum.
-
 ---
 
 ### Meeting View
