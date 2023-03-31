@@ -2,6 +2,12 @@
 
 ## Screenshots
 
+### App Walkthrough
+
+<img src="./Documentation/Assets/AppWalkthrough.gif" alt="App Walkthrough gif" width="300"/>
+
+---
+
 ### Scrums View (Main Screen)
 
 <img src="./Documentation/Assets/ScrumsView.png" alt="Scrums View screenshot" width="300"/>
@@ -16,7 +22,7 @@
 
 ### Detail Edit View
 
-<img src="./Documentation/Assets/DetailEditView.png" alt="Detail View screenshot" width="300"/>
+<img src="./Documentation/Assets/DetailEditView.png" alt="Detail Edit View screenshot" width="300"/>
 
 ---
 
