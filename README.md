@@ -14,6 +14,12 @@
 
 ---
 
+### Detail Edit View
+
+<img src="./Documentation/Assets/DetailEditView.png" alt="Detail View screenshot" width="300"/>
+
+---
+
 ### Meeting View
 
 <img src="./Documentation/Assets/MeetingView.png" alt="Meeting View screenshot" width="300"/>
